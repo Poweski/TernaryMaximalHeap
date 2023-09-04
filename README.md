@@ -1,4 +1,4 @@
-# TernaryMaximalMound
+# TernaryMaximalHeap
 Seventh assignment for algorithms and data structures lab.
 
 Zdefiniuj klasę implementujące strukturę ternarnego (węzły z trojgiem
